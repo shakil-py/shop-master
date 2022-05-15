@@ -1,0 +1,80 @@
+.slide {
+    background-color: #fceae8;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.nav-bar {
+    margin: 20px 100px;
+}
+
+.button {
+    background-color: red;
+    color: whitesmoke;
+}
+
+.catagoris {
+    margin-bottom: 50px;
+}
+
+
+}
+.catagoris h1 {
+    color: white;
+}
+.cat-1,
+.cat-2,
+.cat-3 {
+    padding: 10px 20px;
+}
+.cat-1 {
+    background-image: linear-gradient(to right, blue, aqua);
+    border-radius: 10px;
+    color: white;
+    text-shadow: 1px 2px 5px black;
+}
+.cat-2 {
+    background-image: linear-gradient(to right, greenyellow, aqua);
+    border-radius: 10px;
+    padding: 10px 40px;
+    color: white;
+    text-shadow: 1px 2px 5px black;
+}
+.cat-3 {
+    background-image: linear-gradient(to right, rgb(248, 6, 18), yellow);
+    border-radius: 10px;
+    padding: 10px 25px;
+    color: white;
+    text-shadow: 1px 2px 5px black;
+}
+.catagoris img {
+    height: 125px;
+}
+.color {
+    background-color: royalblue;
+    color: white;
+}
+.card {
+    margin-bottom: 70px;
+    background-color: #fceae8;
+}
+.decoration {
+    margin-bottom: 5px;
+    box-shadow: 10px 1px 15px rgba(24, 24, 26, 0.493);
+    padding-bottom: 10PX ;
+}
+.cardbd {
+    margin-bottom: 75px;
+}
+.footer {
+    text-align: center;
+    color: black;
+    background-color: rgba(61, 61, 102, 0.24);
+}
+.button {
+    background-image: linear-gradient( blue, rgb(9, 240, 228));
+}
